@@ -50,18 +50,16 @@ Built with **Python** and **Tkinter**, this toolkit is perfect for **penetration
 ## **🚀 Getting Started**  
 
 ### **📥 Installation**  
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/yourusername/osint-toolkit-pro.git
-   cd osint-toolkit-pro
+1. **Clone the repository:**
+   
    ```
 
-2. **Install dependencies:**  
+3. **Install dependencies:**  
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the toolkit:**  
+4. **Run the toolkit:**  
    ```bash
    python osint_toolkit.py
    ```
