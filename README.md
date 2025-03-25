@@ -2,7 +2,6 @@
 
 **A Comprehensive Open-Source Intelligence (OSINT) Toolkit with API Integrations for Cybersecurity, Investigations, and Digital Forensics**  
 
-![OSINT Toolkit Demo](https://via.placeholder.com/800x400?text=OSINT+Toolkit+Pro+GUI+Demo) *(Replace with actual screenshot)*  
 
 ## **📌 Overview**  
 **OSINT Toolkit Pro** is a powerful, feature-rich graphical application designed for cybersecurity professionals, investigators, and ethical hackers. It provides **15+ OSINT techniques** in an easy-to-use interface with **API integrations** for **HaveIBeenPwned (HIBP)**, **VirusTotal**, and more.  
