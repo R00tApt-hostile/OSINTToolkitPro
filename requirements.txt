@@ -1,0 +1,1 @@
+pip install requests pillow python-whois dnspython ipwhois phonenumbers pyopenssl PyPDF2 olefile
